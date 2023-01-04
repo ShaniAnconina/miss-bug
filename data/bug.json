@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Bug number 3",
+    "description": "Lorem ipsum dolor sit amet",
+    "severity": 1,
+    "createdAt": "1542107359454",
+    "_id": "t1HIs",
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ],
+    "creator": {
+      "_id": "CayA7",
+      "fullname": "Xuki Ada"
+    }
+  },
+  {
+    "title": "Bug number 1",
+    "severity": 1,
+    "description": "lalalala lalal lalala laaalalala",
+    "labels": [
+      "critical",
+      "dev-branch",
+      "need-CR"
+    ],
+    "_id": "uS2yK",
+    "createdAt": "1672866453623",
+    "creator": {
+      "fullname": "Puki Ja",
+      "_id": "u101"
+    }
+  }
+]

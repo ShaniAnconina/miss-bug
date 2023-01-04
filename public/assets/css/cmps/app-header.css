@@ -1,0 +1,29 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--clr3);
+    padding: 20px;
+}
+
+.header-container p {
+    font-size: 2rem;
+    color: var(--clr0);
+    margin: 0;
+}
+
+.header-container p span {
+    color: var(--clr2);
+}
+
+.header-container nav a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-inline: 10px;
+    color: var(--clr0);
+}
+
+.header-container nav a:hover {
+    border-top: 1px var(--clr0) solid;
+}

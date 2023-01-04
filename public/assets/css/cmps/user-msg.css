@@ -1,0 +1,30 @@
+.user-msg {
+    color: white;
+    padding: 20px;
+    font-size: 1.5em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: var(--clr2);
+}
+
+.user-msg button {
+    cursor: pointer;
+    float: left;
+    border: 0;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.user-msg button:hover {
+    background-color: var(--clr1);
+    color: var(--clr0);
+}
+
+.success {
+    background-color: var(--clr2);
+}
+
+.danger {
+    background-color: rgb(216, 59, 59);
+}
